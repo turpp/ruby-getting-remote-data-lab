@@ -41,6 +41,7 @@ class GetRequester
 
 
     end
+binding.pry
 
 
 end
